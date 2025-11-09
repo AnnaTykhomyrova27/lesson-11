@@ -4,7 +4,7 @@ body{
 }
 .container{
     width: 70vw;
-    background-color: white;
+    background-color: rgb(249, 248, 248);
 }
 .header{
     margin-bottom: 10px;
