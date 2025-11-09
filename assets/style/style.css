@@ -60,13 +60,13 @@ body{
     font-size: 14px;
 }
 .handbags{
-    background-image: url(/assets/image/4th.png);
+    background-image: url(../image/4th.png);
 }
 .watch{
-    background-image: url(/assets/image/3rd.png);
+    background-image: url(../image/3rd.png);
 }
 .shoes{
-    background-image: url(/assets/image/Screenshot\ 2025-11-06\ 172856.png);
+    background-image: url(../image/Screenshot\ 2025-11-06\ 172856.png);
 }
 .second-block{
     display: flex-column;
